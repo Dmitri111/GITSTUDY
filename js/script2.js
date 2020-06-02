@@ -12,7 +12,7 @@ appDate = {
     optionalExpenses: {},
     income: null,
     savings: false
-};
+}
 
 let a1 = prompt("Введите обязательную статью расходов в этом месяце"),
     a2 = prompt("Во сколько обойдется?"),
