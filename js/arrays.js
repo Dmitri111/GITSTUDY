@@ -44,3 +44,5 @@ console.log(arr); */
 
     console.log(typeof(i)); 
     console.log(i); */
+
+    
